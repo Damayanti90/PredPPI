@@ -12,6 +12,8 @@ Python 3.7.3
 
 Stellargraph 1.2.1
 
+Tensorflow 2.11.0
+
 XGBoost
 
 scikit-learn
