@@ -1,6 +1,6 @@
 Here, we predict protein-protein interactions related to Polycystic Ovarian Syndrome and derive novel therapeutic targets of treatment.
 
-For convenience in computation, we refer the drugs as drug_1, drug_2, etc. Simialrly, proteins are refrerred as protein_1, protein_2, etc. and genes as gene_1, gene_2, etc.
+For convenience in computation, we refer the drugs as drug_1, drug_2, etc. Similarly, proteins are referred as protein_1, protein_2, etc. and genes as gene_1, gene_2, etc.
 
 Instructions
 
