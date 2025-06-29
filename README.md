@@ -2,22 +2,22 @@ Here, we predict protein-protein interactions related to Polycystic Ovarian Synd
 
 Instructions
 
-Download and unzip(if applicable) all files and place in one folder.
+1. Download and unzip(if applicable) all files and place in one folder.
 
-Run GCN_unweighted.py.
+2. Run GCN_unweighted.py.
 
 Requirements
 
-Python 3.7.3
+1.Python 3.7.3
 
-Stellargraph 1.2.1
+2.Stellargraph 1.2.1
 
-Tensorflow 2.11.0
+3.Tensorflow 2.11.0
 
-XGBoost
+4.XGBoost
 
-scikit-learn
+5.scikit-learn
 
-numpy
+6.numpy
 
 pandas
